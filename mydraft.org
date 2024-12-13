@@ -19,7 +19,7 @@
 #+RFC_SHORT_ORG: Company
 #+RFC_ADD_AUTHOR: ("Second Author" "second@foo.com" ("Company" "The Company LLC"))
 #+RFC_AREA: SEC
-#+RFC_WORKGROUP: IPSECME Working Group
+#+RFC_WORKGROUP: My Working Group
 
 #+begin_abstract
 
