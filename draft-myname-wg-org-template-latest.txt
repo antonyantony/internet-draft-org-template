@@ -2,7 +2,7 @@
 
 
 
-IPSECME Working Group                                            M. Name
+My Working Group                                                 M. Name
 Internet-Draft                                                 S. Author
 Intended status: Standards Track                                 Company
 Expires: 16 June 2025                                   13 December 2024
