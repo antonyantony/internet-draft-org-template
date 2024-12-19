@@ -18,5 +18,6 @@ GitHub Pages manually.
 * Laest Copy
 The latest version of the draft in HTML format is at:
 - [[https://AntonyAntony.github.io/internet-draft-org-template/draft-myname-wg-org-template-latest.html][Editor's Copy]]
+Rreplace github username s/AntonyAntony/USERNAME/
 # above URL, hostnmae, is replaced by .github/workflows/generate.yaml
 # sed -i "s|AntonyAtony.github.io/draft-myname-wg-org/|$USERNAME.github.io/$REPO_NAME/|g"
