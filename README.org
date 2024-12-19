@@ -9,7 +9,7 @@ IETF Internet-Draft document,
 Make sure to check "Include all branches", or you will need to enable
 GitHub Pages manually.
 
-Rename the file and [[../../edit/main/mydraft.org][edit the RFC_TITLE in the file]]
+Rename the file and [[../../edit/main/mydraft.org][edit the TITLE, and Author in the file]]
 
 * Laest Copy
 The latest version of the draft in HTML format is at:
