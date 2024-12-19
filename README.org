@@ -16,6 +16,7 @@ After renmaing edit the [[../../edit/main/Makefile][Makefile replace mydraft.org
 Rename repository name in [[../../edit/main/README.org][ edit mydraft.org]] s/AntonyAntony/USERNAME/, and edit
 "draft-myname-wg-org" from TITLE. And remove second line to including this line .
 
+# Edit the next line change to your user name, repository name, and draft name.
 * Laest Copy
 The latest version of the draft in HTML format is at:
 - [[https://AntonyAntony.github.io/internet-draft-org-template/draft-myname-wg-org-template-latest.html][Editor's Copy]]
